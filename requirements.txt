@@ -1,0 +1,6 @@
+python-dotenv
+ollama 
+openai 
+pymilvus[model]
+pydantic 
+instructor
